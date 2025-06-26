@@ -4,8 +4,7 @@ This repository contains solutions for the three programming assignments of the 
 
 ## Assignment 1: Document Dewarping with Edge and Line Fitting
 
-**Objective:**  
-Correct geometric distortions in scanned documents using classical vision techniques.
+**Objective:** Correct geometric distortions in scanned documents using classical vision techniques.
 
 **Techniques Used:**
 - Custom implementation of **Hough Transform** for line detection.
@@ -30,8 +29,7 @@ See detailed analysis in `Assignment1/report.pdf`.
 
 ## Assignment 2: Food Image Classification with CNNs and Transfer Learning
 
-**Objective:**  
-Classify images of food using both CNNs built from scratch and pre-trained models.
+**Objective:** Classify images of food using both CNNs built from scratch and pre-trained models.
 
 ### Part 1: CNNs from Scratch
 - Two architectures: Classic CNN and Residual CNN.
@@ -56,8 +54,7 @@ See code and evaluation in `Assignment2/` and full discussion in `Assignment2/re
 
 ## Assignment 3: Object Detection and Counting in Drone Images with YOLOv8
 
-**Objective:**  
-Detect and count cars in aerial parking lot images using **YOLOv8n**.
+**Objective:** Detect and count cars in aerial parking lot images using **YOLOv8n**.
 
 **Implementation:**
 - Trained YOLOv8n under four different freezing strategies:
